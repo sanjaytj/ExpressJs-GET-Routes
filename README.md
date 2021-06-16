@@ -1,6 +1,8 @@
 # ExpressJs-GET-Routes
 ExpressJs Handling Req &amp; Reswith GET and Working with Routes
 
+Initiate npm as 'npm init' and the autor prompt else press Enter a bunch of times
+
 install Express Js using npm as 'npm install express' and then run 'node server.js' and Setup express
 
 Create a root route get method with app.get()
